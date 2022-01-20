@@ -79,4 +79,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://github.com/ronyfr3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a></p>
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3)
