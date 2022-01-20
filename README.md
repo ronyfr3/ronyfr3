@@ -83,7 +83,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 </p>
 
-### Blogs posts <a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a>
+### <h2 align="start"> ✔️ Blogs posts <a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a></h3>
 <!-- BLOG-POST-LIST:START -->
 - [Push notification using ReactJs & NodeJs](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9) - Posted on Nov 13, 2021 • Updated on Nov 15, 2021
 - [Nodejs File Uploads using multer](https://dev.to/ronyfr3/react-nodejs-multiple-image-upload-using-multer-hh4) - Posted on Nov 17, 2021
