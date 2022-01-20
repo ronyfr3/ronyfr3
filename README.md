@@ -8,6 +8,8 @@
 <a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" /> </p>
+
 <div align="center">
 <p><img align="right" alt="Coding" width="400" height="350px" src="https://media4.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif"></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=joined,Stars,Commits,Repositories&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" width="400px" height="400px"></p>
