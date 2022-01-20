@@ -96,19 +96,6 @@
 ### <h2 align="start"> ✔️ Servers</h3>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<!-- github profile states -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ronyfr3&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
-</p>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
-</p>
-<p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3" />
-</p>
-
-
-
 
 <!-- blog post -->
 ### <h2 align="start"> ✔️ Blogs posts <a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a></h3>
@@ -119,8 +106,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<!-- github profile states -->
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ronyfr3&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3" />
+</p>
 
 <!-- support -->
-<h3 align="left">Support:</h3>
-<a href="https://www.npmjs.com/package/fr3-responsive-table"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a>
+### <h2 align="left">Support:</h3>
+<a href="https://www.npmjs.com/package/fr3-responsive-table"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a><br />
+
