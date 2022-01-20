@@ -3,7 +3,7 @@
 <!--  https://github.com/ryo-ma/github-profile-trophy -->
 <!-- </p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&no-frame=true&row=2&column=10&margin-w=35&margin-h=15&width=100)](https://github.com/ronyfr3/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=dracula&no-bg=true&no-frame=true&row=2&column=10&margin-w=50&margin-h=20)](https://github.com/ronyfr3/github-profile-trophy)
 
 <p>
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rakib <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
