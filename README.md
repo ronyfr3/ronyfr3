@@ -9,7 +9,8 @@
 </p>
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=joined,Stars,Commits,Repositories&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" width="400px" height="400px">
+<p><img align="right" alt="Coding" width="400" height="350px" src="https://media4.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif"></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=joined,Stars,Commits,Repositories&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" width="400px" height="400px"></p>
 </div>
 <!--  https://github.com/ryo-ma/github-profile-trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&no-frame=true&row=1&column=10&margin-w=50&margin-h=20)](https://github.com/ronyfr3/github-profile-trophy) -->
@@ -81,6 +82,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ronyfr3&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
+</p>
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3" />
 </p>
 
 ### <h2 align="start"> ✔️ Blogs posts <a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a></h3>
