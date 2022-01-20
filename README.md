@@ -1,7 +1,8 @@
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3)
+![Visitor Badge](https://komarev.com/ghpvc/?username=ronyfr3)
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" />
-<img align="right" src="https://komarev.com/ghpvc/?username=ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" /> -->
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" /> -->
 
 <p>
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rakib <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
