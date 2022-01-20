@@ -87,7 +87,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Push notification using ReactJs & NodeJs](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9) - Posted on Nov 13, 2021 • Updated on Nov 15, 2021
 - [Nodejs File Uploads using multer](https://dev.to/ronyfr3/react-nodejs-multiple-image-upload-using-multer-hh4) - Posted on Nov 17, 2021
-- [ExpressJs Authorization & Athentication](https://dev.to/ronyfr3/express-js-authentication-authorization-code-2l9g-temp-slug-1561731?preview=79f89949e1bf845d4d98977083084b28a4a3078445c958546117b180a03e1d184e4f12473ec49a044666759f4798d29d9012033179180222f41e40cc) - Posted on Jan 20, 2022
+- [ExpressJs Authorization & Athentication](https://dev.to/ronyfr3/express-js-authentication-authorization-code-4cdd) - Posted on Jan 20, 2022
 <!-- BLOG-POST-LIST:END -->
 
 
