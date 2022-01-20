@@ -1,14 +1,18 @@
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3) -->
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" />
+
 <p>
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rakib <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
 </p>
+
 <p align="center">
 <a href="https://fr3portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; 
 <a href="https://twitter.com/AbdurRakibRony9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdur-rakib-rony-769367214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 <a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" /> </p>
 
 <div align="center">
 <p><img align="right" alt="Coding" width="400" height="350px" src="https://media4.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif"></p>
@@ -99,6 +103,3 @@
 
 <h3 align="left">Support:</h3>
 <a href="https://www.npmjs.com/package/fr3-responsive-table"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a>
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3)
