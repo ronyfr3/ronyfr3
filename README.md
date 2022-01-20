@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://fr3portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; 
 <a href="https://twitter.com/AbdurRakibRony9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvpBxSQrhJbsdPtBfHhtzTtDqXTjvtXBpkrmNggRTnxqLCPjQnQNCKpwcPzvGDtmBLMwpq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdur-rakib-rony-769367214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+<a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 </p>
 
 
@@ -15,8 +15,10 @@
 
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+
+
 
 
  ## <h2 align="start"> ✔️ Technologies </h3>
