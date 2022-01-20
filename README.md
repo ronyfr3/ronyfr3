@@ -22,7 +22,7 @@
 
 <!-- trophy and gif -->
 <div align="center">
-<p><img align="right" alt="Coding" width="400" height="350px" src="https://media4.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif"></p>
+<p><img align="right" alt="Coding" width="350" height="300px" src="https://media4.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif"></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=joined,Stars,Commits,Repositories&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" width="400px" height="400px"></p>
 </div>
 <!--  https://github.com/ryo-ma/github-profile-trophy -->
