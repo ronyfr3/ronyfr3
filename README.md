@@ -1,7 +1,7 @@
 <!-- <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=Stars,Commits,Repositories&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="400px" height="400px">
 <!--  https://github.com/ryo-ma/github-profile-trophy -->
-</p> -->
+<!-- </p> --> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=Stars,Followers,Commits,Repositories&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ronyfr3/github-profile-trophy)
 
