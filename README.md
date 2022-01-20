@@ -108,7 +108,7 @@
 
 <!-- github profile states -->
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ronyfr3&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 </p>
 
