@@ -1,3 +1,9 @@
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=Stars,Commits,Repositories&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="400px" height="400px">
+<!--  https://github.com/ryo-ma/github-profile-trophy -->
+</p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=Stars,Followers,Commits,Repositories&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ronyfr3/github-profile-trophy) -->
 
 <p>
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rakib <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
@@ -10,7 +16,7 @@
 </p>
 
 
- ## <h2 align="start"> ✔️ Education </h3>
+### <h2 align="start"> ✔️ Education </h3>
 <img src="https://bauet.ac.bd/wp-content/uploads/2020/11/BAUET-Logo-250x244-1.png" width="100px">
 
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -21,7 +27,7 @@
 
 
 
- ## <h2 align="start"> ✔️ Technologies </h3>
+### <h2 align="start"> ✔️ Technologies </h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -45,33 +51,33 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
  
-## <h2 align="start"> ✔️ Databases</h3>
+### <h2 align="start"> ✔️ Databases</h3>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## <h2 align="start"> ✔️ Testing</h3>
+### <h2 align="start"> ✔️ Testing</h3>
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-## <h2 align="start"> ✔️ Version Control</h3>
+### <h2 align="start"> ✔️ Version Control</h3>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
- ## <h2 align="start"> ✔️ IDEs/Editors</h3>
+### <h2 align="start"> ✔️ IDEs/Editors</h3>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
-## <h2 align="start"> ✔️ Hosting/SaaS</h3>
+### <h2 align="start"> ✔️ Hosting/SaaS</h3>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 
-## <h2 align="start"> ✔️ Servers</h3>
+### <h2 align="start"> ✔️ Servers</h3>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <p align="center">
@@ -79,8 +85,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 </p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<p align="left">
+<a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Support:</h3>
-<p><a href="https://github.com/ronyfr3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a></p>
+<a href="https://www.npmjs.com/package/fr3-responsive-table"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3)
