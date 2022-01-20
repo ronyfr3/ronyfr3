@@ -4,10 +4,14 @@
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ronyfr3.ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" /> -->
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=ronyfr3&label=Profile%20views&color=0e75b6&style=flat" alt="ronyfr3" /> -->
 
+
+<!-- greet -->
 <p>
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rakib <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
 </p>
 
+
+<!-- social -->
 <p align="center">
 <a href="https://fr3portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; 
 <a href="https://twitter.com/AbdurRakibRony9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -15,6 +19,8 @@
 <a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 </p>
 
+
+<!-- trophy and gif -->
 <div align="center">
 <p><img align="right" alt="Coding" width="400" height="350px" src="https://media4.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif"></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=joined,Stars,Commits,Repositories&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" width="400px" height="400px"></p>
@@ -22,6 +28,9 @@
 <!--  https://github.com/ryo-ma/github-profile-trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&no-frame=true&row=1&column=10&margin-w=50&margin-h=20)](https://github.com/ronyfr3/github-profile-trophy) -->
 
+
+
+<!-- education -->
 ### <h2 align="start"> ✔️ Education </h3>
 <img src="https://bauet.ac.bd/wp-content/uploads/2020/11/BAUET-Logo-250x244-1.png" width="100px">
 
@@ -33,6 +42,7 @@
 
 
 
+<!-- technologies -->
 ### <h2 align="start"> ✔️ Technologies </h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -86,14 +96,21 @@
 ### <h2 align="start"> ✔️ Servers</h3>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+<!-- github profile states -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ronyfr3&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 </p>
 <p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3" />
 </p>
 
+
+
+
+<!-- blog post -->
 ### <h2 align="start"> ✔️ Blogs posts <a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a></h3>
 <!-- BLOG-POST-LIST:START -->
 - [Push notification using ReactJs & NodeJs](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9) - Posted on Nov 13, 2021 • Updated on Nov 15, 2021
@@ -102,5 +119,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+
+
+<!-- support -->
 <h3 align="left">Support:</h3>
 <a href="https://www.npmjs.com/package/fr3-responsive-table"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a>
