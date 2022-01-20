@@ -1,10 +1,3 @@
-<!-- <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=Stars,Commits,Repositories&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="400px" height="400px">
-<!--  https://github.com/ryo-ma/github-profile-trophy -->
-<!-- </p> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&no-frame=true&row=1&column=10&margin-w=50&margin-h=20)](https://github.com/ronyfr3/github-profile-trophy)
-
 <p>
   <h1 align="center"><b>Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Rakib <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-technologist_1f468-200d-1f4bb.png" alt="" width="30"></h1>
 </p>
@@ -15,6 +8,11 @@
 <a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 </p>
 
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&title=joined,Stars,Commits,Repositories&no-frame=true&row=1&column=3&margin-w=15&margin-h=15" width="400px" height="400px">
+</div>
+<!--  https://github.com/ryo-ma/github-profile-trophy -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ronyfr3&theme=monokai&no-frame=true&row=1&column=10&margin-w=50&margin-h=20)](https://github.com/ronyfr3/github-profile-trophy) -->
 
 ### <h2 align="start"> ✔️ Education </h3>
 <img src="https://bauet.ac.bd/wp-content/uploads/2020/11/BAUET-Logo-250x244-1.png" width="100px">
@@ -85,12 +83,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=true" alt="ronyfr3's github stats"/>
 </p>
 
-### Blogs posts
+### Blogs posts <a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:START -->
+- [Push notification using ReactJs & NodeJs](https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9) - Posted on Nov 13, 2021 • Updated on Nov 15, 2021
+- [Nodejs File Uploads using multer](https://dev.to/ronyfr3/react-nodejs-multiple-image-upload-using-multer-hh4) - Posted on Nov 17, 2021
+- [ExpressJs Authorization & Athentication](https://dev.to/ronyfr3/express-js-authentication-authorization-code-2l9g-temp-slug-1561731?preview=79f89949e1bf845d4d98977083084b28a4a3078445c958546117b180a03e1d184e4f12473ec49a044666759f4798d29d9012033179180222f41e40cc) - Posted on Jan 20, 2022
 <!-- BLOG-POST-LIST:END -->
-<p align="left">
-<a href="https://dev.to/ronyfr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronyfr3" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Support:</h3>
 <a href="https://www.npmjs.com/package/fr3-responsive-table"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronyfr3" /></a>
