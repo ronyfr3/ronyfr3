@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://fr3portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp; 
 <a href="https://twitter.com/AbdurRakibRony9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://twitter.com/AbdurRakibRony9"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvpBxSQrhJbsdPtBfHhtzTtDqXTjvtXBpkrmNggRTnxqLCPjQnQNCKpwcPzvGDtmBLMwpq"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 <a href="https://dev.to/ronyfr3"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 </p>
 
@@ -72,7 +72,7 @@
 ## <h2 align="start"> ✔️ Servers</h3>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<p align="start">
+<p align="center">
 <a href="https://github.com/ronyfr3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ronyfr3&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" alt="ronyfr3's github stats" /></a> ✨ <a href="https://github.com/ronyfr3/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyfr3&layout=compact&theme=dracula&hide_border=false" /></a>
 </p>
 
